@@ -1,0 +1,6 @@
+{
+  "name": "Le Chemin pour le Nikah",
+  "description": "Plateforme matrimoniale de rencontre pour célibataires au Niger dédiée au mariage respectueux (Nikah), avec géolocalisation précise, chiffrement de bout en bout, vérification photo et paiements My Nita / Amanata.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
